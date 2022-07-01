@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["0@s.whatsapp.net","0@s.whatsapp.net"],
+    "ownerName": "Barr",
+    "instagram" : "Gada Om",
+    "botName": "XzyBotz-Md",
+    "footer": "WhatsApp Bot",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
